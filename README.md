@@ -2,7 +2,7 @@
 
 I'm a student currently learning about GitHub, GitHub Codespaces, and GitHub Pages. This repository contains my first project: a simple "Hello World" webpage. It's a part of our GIS programming lab where we're exploring the basics of web development and version control. 
 
-## Project Description kljlksdj
+## Project Description 
 
 In this project, I: - Created a GitHub repository to understand how version control works. - Used GitHub Codespaces for editing and writing the HTML code for the webpage. - Explored basic HTML and CSS to style the webpage. - Published the webpage using GitHub Pages to understand web hosting. 
 
